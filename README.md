@@ -1,14 +1,18 @@
 <h1 align="center">Hey! 👋,  I'm Kalpit Jain</h1>
 <h3 align="center">SWE Intern'23 at Microsoft, Full Stack Web Developer, Generative AI Application Developer, and Blockchain Application Developer.</h3>
-
-<p align="right">
+<img
+  align="right"
+  alt="Coding"
+  width="300"
+  src="https://miro.medium.com/v2/resize:fit:1360/format:webp/1*zVnWJtyGOX_kUIDm6ccCfQ.gif"
+/>
+<p align="left">
   <img
-    src="https://miro.medium.com/v2/resize:fit:1360/format:webp/1*zVnWJtyGOX_kUIDm6ccCfQ.gif"
-    heigit="2rem"
-    width="2rem"
+    src="https://komarev.com/ghpvc/?username=kalpitjain&label=Profile%20views&color=0e75b6&style=flat"
     alt="kalpitjain"
   />
 </p>
+
 
 - 🔭 I’m currently working on **Zenoway**
 - 🌱 I’m currently
