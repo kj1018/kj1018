@@ -38,12 +38,14 @@ learning **Generative AI **and** Machine Learning**
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=flat)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white&style=flat)
 
-**Frameworks/Libraries:**
-![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white&style=flat)
-![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white&style=flat)
-![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white&style=flat)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=flat)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white&style=flat)
+**Generative AI:**
+![LangChain](https://img.shields.io/badge/-LangChain-1E1E1E?style=flat)
+![Semantic Kernel](https://img.shields.io/badge/-Semantic_Kernel-6550E9?style=flat)
+![Prompt Engineering](https://img.shields.io/badge/-Prompt_Engineering-198CE2?style=flat)
+![OpenAI](https://img.shields.io/badge/-OpenAI-0082C3?logo=openai&logoColor=white&style=flat)
+![Gemini AI](https://img.shields.io/badge/-Gemini_AI-3F49CC?style=flat)
+![Hugging Faces](https://img.shields.io/badge/-Hugging_Faces-1766B3?logo=hugging-face&logoColor=white&style=flat)
+![DALL·E](https://img.shields.io/badge/-DALL·E-000000?style=flat)
 
 **Generative AI:**
 ![LangChain](https://img.shields.io/badge/-LangChain-1E1E1E?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAYAAACqaXHeAAAQYUlEQ…)
