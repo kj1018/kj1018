@@ -1,8 +1,24 @@
-# Hi there, I'm Kalpit Jain 👋
+<h1 align="center">Hey! 👋,  I'm Kalpit Jain</h1>
+<h3 align="center">SWE Intern'23 at Microsoft, Full Stack Web Developer, Generative AI Application Developer, and Blockchain Application Developer.</h3>
 
-## About Me
+<img
+  align="right"
+  alt="Coding"
+  width="300"
+  src="https://curiousdevelopers.in/wp-content/uploads/2022/03/coding-front-page.gif"
+/>
+<p align="left">
+  <img
+    src="https://miro.medium.com/v2/resize:fit:1360/format:webp/1*zVnWJtyGOX_kUIDm6ccCfQ.gif"
+    alt="kalpitjain"
+  />
+</p>
 
-I am a Software Engineering Intern at Microsoft ('23), specializing in MERN Stack development, Generative AI applications, and Blockchain development. Passionate about creating innovative solutions and exploring the intersection of technology and creativity.
+- 🔭 I’m currently working on **Zenoway**
+- 🌱 I’m currently
+learning **Open AI ChatGPT **and** Semantic Kernel** 
+- 💬 Ask me about **MERN, Blockchain and OpenAI** 
+- 📫 How to reach me **kalpit.jain1810@gmail.com**
 
 ## 🔧 Technologies & Tools
 
