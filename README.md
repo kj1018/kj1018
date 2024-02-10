@@ -39,13 +39,14 @@ learning **Generative AI **and** Machine Learning**
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white&style=flat)
 
 ## Generative AI
-![LangChain](https://img.shields.io/badge/-LangChain-1E1E1E?style=flat)
-![Semantic Kernel](https://img.shields.io/badge/-Semantic_Kernel-6550E9?style=flat)
-![Prompt Engineering](https://img.shields.io/badge/-Prompt_Engineering-198CE2?style=flat)
 ![OpenAI](https://img.shields.io/badge/-OpenAI-0082C3?logo=openai&logoColor=white&style=flat)
-![Gemini AI](https://img.shields.io/badge/-Gemini_AI-3F49CC?style=flat)
+![Gemini AI](https://img.shields.io/badge/-Gemini_AI-3F49CC?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAYAAACqaXHeAAARWklEQ…)
+![Llama2](https://img.shields.io/badge/-Llama2-FFA07A?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAYAAACqaXHeAAAQ4klEQ…)
 ![Hugging Faces](https://img.shields.io/badge/-Hugging_Faces-1766B3?logo=hugging-face&logoColor=white&style=flat)
-![DALL·E](https://img.shields.io/badge/-DALL·E-000000?style=flat)
+![DALL·E](https://img.shields.io/badge/-DALL·E-000000?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAYAAACqaXHeAAAQLUlEQ…)
+![LangChain](https://img.shields.io/badge/-LangChain-1E1E1E?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAYAAACqaXHeAAARyUlEQ…)
+![LlamaIndex](https://img.shields.io/badge/-LlamaIndex-FFA07A?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAYAAACqaXHeAAAQ1klEQ…)
+![Semantic Kernel](https://img.shields.io/badge/-Semantic_Kernel-6550E9?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAYAAACqaXHeAAARyUlEQ…)
 
 **Generative AI:**
 ![LangChain](https://img.shields.io/badge/-LangChain-1E1E1E?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAYAAACqaXHeAAAQYUlEQ…)
