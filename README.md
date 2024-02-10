@@ -38,7 +38,7 @@ learning **Generative AI **and** Machine Learning**
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=flat)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white&style=flat)
 
-**Generative AI:**
+## Generative AI
 ![LangChain](https://img.shields.io/badge/-LangChain-1E1E1E?style=flat)
 ![Semantic Kernel](https://img.shields.io/badge/-Semantic_Kernel-6550E9?style=flat)
 ![Prompt Engineering](https://img.shields.io/badge/-Prompt_Engineering-198CE2?style=flat)
