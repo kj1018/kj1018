@@ -4,6 +4,8 @@
 <p align="right">
   <img
     src="https://miro.medium.com/v2/resize:fit:1360/format:webp/1*zVnWJtyGOX_kUIDm6ccCfQ.gif"
+    heigit="2rem"
+    width="2rem"
     alt="kalpitjain"
   />
 </p>
