@@ -51,6 +51,16 @@ learning **Generative AI **and** Machine Learning**
 ![LlamaIndex](https://img.shields.io/badge/-LlamaIndex-FFA07A?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAYAAACqaXHeAAAQ1klEQ…)
 ![Semantic Kernel](https://img.shields.io/badge/-Semantic_Kernel-6550E9?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAYAAACqaXHeAAARyUlEQ…)
 
+**Technical Competency:**
+
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat)
+![NoSQL](https://img.shields.io/badge/-NoSQL-4DB33D?logo=mongodb&logoColor=white&style=flat)
+![Rest APIs](https://img.shields.io/badge/-Rest_APIs-61DAFB?logo=rest&logoColor=white&style=flat)
+![UI/UX](https://img.shields.io/badge/-UI/UX-4FC08D?style=flat)
+![Azure](https://img.shields.io/badge/-Azure-0089D6?logo=microsoft-azure&logoColor=white&style=flat)
+
 
 ## 🚀 Current Projects
 
