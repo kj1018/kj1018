@@ -55,11 +55,13 @@ learning **Generative AI **and** Machine Learning**
 
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat)
-![NoSQL](https://img.shields.io/badge/-NoSQL-4DB33D?logo=mongodb&logoColor=white&style=flat)
-![Rest APIs](https://img.shields.io/badge/-Rest_APIs-61DAFB?logo=rest&logoColor=white&style=flat)
+![MongoDB](https://img.shields.io/badge/-MongoDB-4DB33D?logo=mongodb&logoColor=white&style=flat)
 ![UI/UX](https://img.shields.io/badge/-UI/UX-4FC08D?style=flat)
 ![Azure](https://img.shields.io/badge/-Azure-0089D6?logo=microsoft-azure&logoColor=white&style=flat)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white&style=flat)
+![Vercel](https://img.shields.io/badge/-Vercel-000000?logo=vercel&logoColor=white&style=flat)
+![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?logo=netlify&logoColor=white&style=flat)
+![CodeSandbox](https://img.shields.io/badge/-CodeSandbox-000000?logo=codesandbox&logoColor=white&style=flat)
 
 
 ## 🚀 Current Projects
