@@ -1,3 +1,9 @@
+# Hi there, I'm Kalpit Jain 👋
+
+## About Me
+
+I am a Software Engineering Intern at Microsoft ('23), specializing in MERN Stack development, Generative AI applications, and Blockchain development. Passionate about creating innovative solutions and exploring the intersection of technology and creativity.
+
 ## 🔧 Technologies & Tools
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=white&style=flat)
@@ -22,3 +28,24 @@
 ![Gemini AI](https://img.shields.io/badge/-Gemini_AI-3F49CC?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAYAAACqaXHeAAARWklEQ…)
 ![Hugging Faces](https://img.shields.io/badge/-Hugging_Faces-1766B3?logo=hugging-face&logoColor=white&style=flat)
 ![DALL·E](https://img.shields.io/badge/-DALL·E-000000?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAYAAACqaXHeAAAQLUlEQ…)
+
+
+## 🚀 Current Projects
+
+- **Generative AI:** Currently working on pushing the boundaries of Generative AI using LangChain, Semantic Kernel, and exploring models like DALL·E.
+  
+## 🌱 Currently Learning
+
+I'm diving deep into Open Source Generative Models and Machine Learning, constantly expanding my knowledge in cutting-edge technologies.
+
+## 💬 Ask me about
+
+MERN Stack development, Generative AI, Blockchain, or anything related to technology. I'm always up for a good tech discussion!
+
+## 📫 How to Reach Me
+
+- Email: [kalpit.jain1810@gmail.com](mailto:kalpit.jain1810@gmail.com)
+- LinkedIn: [Kalpit Jain on LinkedIn](https://www.linkedin.com/in/kalpitjain1810/)
+- Twitter: [Kalpit Jain on Twitter](https://twitter.com/kalpitjain1810)
+
+Feel free to connect, and let's build something amazing together! 😊
