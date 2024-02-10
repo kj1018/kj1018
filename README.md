@@ -1,9 +1,9 @@
 <h1 align="center">Hey! 👋,  I'm Kalpit Jain</h1>
-<h3 align="center">SWE Intern'23 at Microsoft, Full Stack Web Developer, Generative AI Application Developer, and Blockchain Application Developer.</h3>
+<h3 align="center">SWE Intern'23 at Microsoft, Full Stack Web Developer and Generative AI Application Developer.</h3>
 <img
   align="right"
   alt="Coding"
-  width="400"
+  width="350"
   src="https://miro.medium.com/v2/resize:fit:1360/format:webp/1*zVnWJtyGOX_kUIDm6ccCfQ.gif"
 />
 <p align="left">
