@@ -9,10 +9,12 @@
 
 
 - 🔭 I’m currently working on **Youtube Co-Pilot**
-- 🌱 I’m currently
-learning **Generative AI **and** Machine Learning** 
-- 💬 Ask me about **MERN, Blockchain and OpenAI** 
-- 📫 How to reach me **kalpit.jain1810@gmail.com**
+- 🌱 I’m currently learning **Generative AI **and** Machine Learning**
+-  I am happy to discuss about: Data Structures and Algorithms, Programming Languages, Full Stack development, GenerativeAI, Economics and Finance.
+- 💬 Ask me anything about my domain, 🤝 ready to help :)
+- 👨‍💻 All of my projects are available at https://github.com/kalpitjain
+- 📫 To reach me: **kalpit.jain1810@gmail.com**
+- 📄 Know about my experiences https://www.linkedin.com/in/kalpitjain18/
 
 ## 🔧 Technologies & Tools
 
@@ -63,23 +65,12 @@ learning **Generative AI **and** Machine Learning**
 ![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?logo=netlify&logoColor=white&style=flat)
 ![CodeSandbox](https://img.shields.io/badge/-CodeSandbox-000000?logo=codesandbox&logoColor=white&style=flat)
 
-
-## 🚀 Current Projects
-
-- **Generative AI:** Currently working on pushing the boundaries of Generative AI using LangChain, Semantic Kernel, and exploring models like DALL·E.
-  
-## 🌱 Currently Learning
-
-I'm diving deep into Open Source Generative Models and Machine Learning, constantly expanding my knowledge in cutting-edge technologies.
-
-## 💬 Ask me about
-
-MERN Stack development, Generative AI, Blockchain, or anything related to technology. I'm always up for a good tech discussion!
-
-## 📫 How to Reach Me
-
-- Email: [kalpit.jain1810@gmail.com](mailto:kalpit.jain1810@gmail.com)
-- LinkedIn: [Kalpit Jain on LinkedIn](https://www.linkedin.com/in/kalpitjain1810/)
-- Twitter: [Kalpit Jain on Twitter](https://twitter.com/kalpitjain1810)
+## 📫 Connect with me
+<p align="left">
+    <a href="https://twitter.com/kj181000" target="blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/social-media-icons-the-circle-set/48/twitter_circle-512.png" alt="kj181000" height="40" width="40" /></a>
+    <a href="https://linkedin.com/in/kalpit-jain-35a7391ba/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png" alt="linkedin.com/in/kalpit-jain-35a7391ba/" height="40" width="40" /></a>
+    <a href="https://www.youtube.com/@kalpit_jain" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/YouTube_social_white_square_%282017%29.svg/1200px-YouTube_social_white_square_%282017%29.svg.png" alt="youtube.com/@kalpit_jain" height="40" width="40" /></a>
+    </p>
+</p>
 
 Feel free to connect, and let's build something amazing together! 😊
