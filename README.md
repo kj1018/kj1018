@@ -3,7 +3,8 @@
 <img
   align="right"
   alt="Coding"
-  width="350"
+  width="300"
+  border-radius: 10px
   src="https://miro.medium.com/v2/resize:fit:1360/format:webp/1*zVnWJtyGOX_kUIDm6ccCfQ.gif"
 />
 <p align="left">
