@@ -14,6 +14,16 @@ learning **Generative AI **and** Machine Learning**
 - 💬 Ask me about **MERN, Blockchain and OpenAI** 
 - 📫 How to reach me **kalpit.jain1810@gmail.com**
 
+## Programming Languages
+
+![Java](https://img.shields.io/badge/-Java-F7DF1E?logo=java&logoColor=white&style=flat)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=white&style=flat)
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat)
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white&style=flat)
+
 ## 🔧 Technologies & Tools
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=white&style=flat)
