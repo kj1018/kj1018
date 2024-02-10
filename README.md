@@ -4,20 +4,13 @@
   align="right"
   alt="Coding"
   width="300"
-  border-radius: 10px
   src="https://miro.medium.com/v2/resize:fit:1360/format:webp/1*zVnWJtyGOX_kUIDm6ccCfQ.gif"
 />
-<p align="left">
-  <img
-    src="https://komarev.com/ghpvc/?username=kalpitjain&label=Profile%20views&color=0e75b6&style=flat"
-    alt="kalpitjain"
-  />
-</p>
 
 
-- 🔭 I’m currently working on **Zenoway**
+- 🔭 I’m currently working on **Youtube Co-Pilot**
 - 🌱 I’m currently
-learning **Open AI ChatGPT **and** Semantic Kernel** 
+learning **Generative AI **and** Machine Learning** 
 - 💬 Ask me about **MERN, Blockchain and OpenAI** 
 - 📫 How to reach me **kalpit.jain1810@gmail.com**
 
