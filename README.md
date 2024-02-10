@@ -3,7 +3,7 @@
 <img
   align="right"
   alt="Coding"
-  width="300"
+  width="400"
   src="https://miro.medium.com/v2/resize:fit:1360/format:webp/1*zVnWJtyGOX_kUIDm6ccCfQ.gif"
 />
 <p align="left">
