@@ -16,7 +16,7 @@ learning **Generative AI **and** Machine Learning**
 
 ## 🔧 Technologies & Tools
 
-**Programming Languages**
+**Programming Languages:**
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=white&style=flat)
 ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat)
@@ -29,8 +29,7 @@ learning **Generative AI **and** Machine Learning**
 ![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=white&style=flat)
 
 
-**Frameworks/Libraries**
-
+**Frameworks/Libraries:**
 ![React.js](https://img.shields.io/badge/-React.js-61DAFB?logo=react&logoColor=white&style=flat)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat)
 ![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white&style=flat)
@@ -39,7 +38,7 @@ learning **Generative AI **and** Machine Learning**
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=flat)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white&style=flat)
 
-**Generative AI**
+**Generative AI:**
 ![OpenAI](https://img.shields.io/badge/-OpenAI-0082C3?logo=openai&logoColor=white&style=flat)
 ![Gemini AI](https://img.shields.io/badge/-Gemini_AI-3F49CC?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAYAAACqaXHeAAARWklEQ…)
 ![Llama2](https://img.shields.io/badge/-Llama2-FFA07A?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAYAAACqaXHeAAAQ4klEQ…)
